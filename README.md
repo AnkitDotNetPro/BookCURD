@@ -44,43 +44,17 @@ A comprehensive Book CRUD (Create, Read, Update, Delete) application using React
    cd BookCURD-APP
    ```
 
-3. **Install dependencies**:
-   ```bash
-   dotnet restore
-   ```
-
-4. **Update the connection string** in `appsettings.json`:
+3. **Update the connection string** in `appsettings.json`:
    ```json
    "ConnectionStrings": {
      "DefaultConnection": "your-encrypted-connection-string-here"
    }
    ```
 
-5. **Run the application**:
-   ```bash
-   dotnet run
-   ```
+4. **Run the application**:
+   
 
 The API will run at `https://localhost:5001/api/`.
-
-### Front-End Setup (ReactJS)
-
-1. **Navigate to the front-end directory**:
-   ```bash
-   cd BookCURD-APP/frontend
-   ```
-
-2. **Install dependencies**:
-   ```bash
-   npm install
-   ```
-
-3. **Run the React application**:
-   ```bash
-   npm start
-   ```
-
-The front-end will run at `http://localhost:3000/`.
 
 ## API Endpoints
 
