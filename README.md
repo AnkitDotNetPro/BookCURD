@@ -47,7 +47,7 @@ A comprehensive Book CRUD (Create, Read, Update, Delete) application using React
 3. **Update the connection string** in `appsettings.json`:
    ```json
    "ConnectionStrings": {
-     "DefaultConnection": "your-encrypted-connection-string-here"
+     "DefaultConnection": "ADD_YOUR_LOCAL_CONNECTION_STRING"
    }
    ```
 
