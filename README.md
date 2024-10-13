@@ -41,7 +41,7 @@ A comprehensive Book CRUD (Create, Read, Update, Delete) application using React
 
 2. **Navigate to the backend directory**:
    ```bash
-   cd BookCURD-APP/backend
+   cd BookCURD-APP
    ```
 
 3. **Install dependencies**:
