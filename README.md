@@ -36,7 +36,7 @@ A comprehensive Book CRUD (Create, Read, Update, Delete) application using React
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/jithuth/BookCURD-APP.git
+   git clone https://github.com/AnkitDotNetPro/BookCURD.git
    ```
 
 2. **Navigate to the backend directory**:
